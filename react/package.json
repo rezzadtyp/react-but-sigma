@@ -1,0 +1,34 @@
+{
+  "name": "react-but-sigma",
+  "version": "1.0.0",
+  "description": "React but it's Sigma",
+  "main": "index.js",
+  "keywords": [
+    "react"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/rezzadtyp/react-but-sigma",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rezzadtyp/react-but-sigma.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js",
+    "index.ts",
+    "cjs/",
+    "umd/"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "react-but-sigma",
+  "version": "1.0.0",
+  "description": "React but it's Sigma",
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezzadtyp/react-but-sigma.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rezzadtyp/react-but-sigma/issues"
+  },
+  "homepage": "https://github.com/rezzadtyp/react-but-sigma#readme"
+}

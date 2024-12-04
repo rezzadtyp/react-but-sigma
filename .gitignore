@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+
+react/node_modules
+react/index.js
+react/cjs
+react/umd
